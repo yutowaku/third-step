@@ -19,4 +19,3 @@ print "理科:"
 p ary3
 print "英語:"
 p ary4
-
